@@ -1,8 +1,13 @@
-### Hi there 👋
+### I'm Jorge 👋
+
+[![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=rimblas)
+
+- 🌱 I’m currently learning [how to play the piano](https://apps.apple.com/us/app/simply-piano-by-joytunes/id1019442026)
+- ⚡ Fun fact: I make (at least) one mean latte every day
+- 💬 See my resentations: [slides.com/rimblas](http://slides.com/rimblas)
+- 📫 I have a blog: [rimbas.com/blog](https://rimblas.com/blog)
 
 <!--
-**rimblas/rimblas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
