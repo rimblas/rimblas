@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning [how to play the piano](https://apps.apple.com/us/app/simply-piano-by-joytunes/id1019442026)
 - ⚡ Fun fact: I make (at least) one mean latte with my [Decent Espresso](https://decentespresso.com) machine every day
-- 💬 See my resentations: [slides.com/rimblas](http://slides.com/rimblas)
+- 💬 See my presentations: [slides.com/rimblas](http://slides.com/rimblas)
 - 📫 I have a blog: [rimbas.com/blog](https://rimblas.com/blog)
 
 [![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=rimblas)](https://github.com/anuraghazra/github-readme-stats)
